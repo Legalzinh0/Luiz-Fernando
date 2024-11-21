@@ -26,6 +26,12 @@ header img {
 h1 {
     color: green;
 }
+h2 {
+    text-align: center;
+}
+h4 {
+    color: rgb(201, 204, 201)
+}
 
 .container {
     padding: 0px 50px;
@@ -34,16 +40,16 @@ h1 {
 nav a:hover {
     color: green;
 }
-.contact-form input{
-    width: 100%;
+.contact-form input {
+    width: 40%;
     height: 8px 0px;
 }
 .contact-form input[type=text] {
-    height: 100px;
+    height: 20px;
 }
 button {
-    background-color: white;
-    border: none;
-    height: 30 px;
+    background-color: rgb(211, 211, 211);
+    border-color: chartreuse;
+    height: 30px;
     width: 100px;
 }
