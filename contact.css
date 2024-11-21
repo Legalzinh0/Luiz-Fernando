@@ -41,15 +41,18 @@ nav a:hover {
     color: green;
 }
 .contact-form input {
-    width: 40%;
+    width: 60%;
     height: 8px 0px;
 }
+.contact-form2 input {
+    width: 50%;
+    height: 8px 0px;}
+
 .contact-form input[type=text] {
     height: 20px;
 }
 button {
     background-color: rgb(211, 211, 211);
-    border-color: chartreuse;
-    height: 30px;
+    height: 25px;
     width: 100px;
 }
